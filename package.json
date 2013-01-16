@@ -1,0 +1,31 @@
+{
+  "name": "ow2sample",
+  "version": "0.0.1",
+  "description": "ow2sample with node.js",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/ow2sample",
+  "keywords": [
+    "node"
+  ],
+  "maintainers": [{
+    "name": "Christophe Hamerling",
+    "email": "christophe.hamerling@gmail.com"
+  }],
+  "contributors": [],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/ow2sample.git"
+  },
+  "engines": {
+    "node": ">0.6.x",
+    "npm": "1.0.x"
+  },
+  "dependencies": {
+    "express": "3.0",
+    "gitoriou.js": "0.0.1"
+  }
+}
